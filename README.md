@@ -17,3 +17,10 @@ This repository provides curated word lists for the following lengths:
 ## 📥 Data Source
 The words are sourced from:
 [English Word List - GitHub Repository](https://raw.githubusercontent.com/lorenbrichter/Words/master/Words/en.txt)
+
+## 🧑‍💻 Author
+
+- Name: Bisnu Ray
+- Telegram: [@itsSmartDev](https://t.me/itsSmartDev)
+
+Feel free to reach out if you have any questions or feedback.
