@@ -5,14 +5,17 @@
 
 ## 📜 Word Lengths Covered
 This repository provides curated word lists for the following lengths:
-- **3-letter words**
-- **4-letter words**
-- **5-letter words**
-- **6-letter words**
-- **7-letter words**
-- **8-letter words**
-- **9-letter words**
-- **10-letter words**
+- **3-letter words** - 1,311 words
+- **4-letter words** - 5,528 words
+- **5-letter words** - 12,653 words
+- **6-letter words** - 22,418 words
+- **7-letter words** - 33,295 words
+- **8-letter words** - 40,648 words
+- **9-letter words** - 41,231 words
+- **10-letter words** - 35,874 words
+
+### 📊 Total Words Count
+**Total Words:** 192,958 words
 
 ## 📥 Data Source
 The words are sourced from:
